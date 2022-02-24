@@ -1,6 +1,17 @@
 # Scrumdinger_IOS
 Developing IOS apps based on https://developer.apple.com/tutorials/app-dev-training/handling-errors 
 
+
+https://user-images.githubusercontent.com/39514108/155447419-d54a1364-2ade-4afe-a964-5baf66dc485b.mp4
+
+
+https://user-images.githubusercontent.com/39514108/155447495-5e9fba90-ab8f-471d-8635-671eb2437c0e.mp4
+
+
+https://user-images.githubusercontent.com/39514108/155447552-02df7d2d-32ca-497b-b3e7-fc56a3b46152.mp4
+
+
+
 ## Displaying a List Screen
 
 The following is the main page of the app which displays all the different scrum teams and the number of attendees.
